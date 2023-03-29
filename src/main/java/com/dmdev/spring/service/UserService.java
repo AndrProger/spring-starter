@@ -1,4 +1,4 @@
-package com.dmdev.spring;
+package com.dmdev.spring.service;
 
 import com.dmdev.spring.database.repository.CompanyRepository;
 import com.dmdev.spring.database.repository.UserRepository;
